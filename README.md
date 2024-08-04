@@ -20,6 +20,10 @@ Estrutura do Projeto:
 MainActivity.java: Arquivo principal contendo a lógica de autenticação e manipulação dos eventos dos botões.
 activity_main.xml: Arquivo de layout contendo a definição da interface de usuário utilizando Linear Layout.
 
+Captura de Tela:
+
+![img01](https://github.com/Paula-Thamyres/LinearLayout/blob/master/01.png)
+
 Como Executar:
 1 - Clone este repositório: 
 
